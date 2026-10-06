@@ -1,4 +1,4 @@
-## Samith Shetty
+## Ashmit
 
 Full stack developer. I have been pulling computers apart since school and never really
 stopped. Most of my paid work has been building products end to end, but the part I keep
